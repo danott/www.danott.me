@@ -12,6 +12,7 @@ eleventyExcludeFromCollections: true
       html, body {
         margin: 0; 
         padding: 0;
+        background-color: var(--color);
       }
 
       .grid {
@@ -41,6 +42,13 @@ eleventyExcludeFromCollections: true
       >
         {{ commit.subject.split(" ")[0] }}
       </a>
+      {% if loop.last %}
+        <style>
+          :root {
+            --color: #{{commit.hash.substring(0, 6)}};
+          }
+        </style>
+      {% endif %}
     {% endfor %}
   </body>
 </html>
