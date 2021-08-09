@@ -9,6 +9,11 @@ eleventyExcludeFromCollections: true
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ title }}</title>
     <style>
+      :root {
+        color-scheme: light dark;
+        --square-width: 10vw;
+      }
+
       html, body {
         margin: 0; 
         padding: 0;
@@ -24,10 +29,10 @@ eleventyExcludeFromCollections: true
         align-items: center;
         background: var(--color);
         display: flex;
-        height: 10vw;
+        height: var(--square-width);
         justify-content: center;
         text-decoration: none;
-        width: 10vw;
+        width: var(--square-width);
       }
     </style>
   </head>
