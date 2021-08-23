@@ -1,13 +1,9 @@
 ---
-date: 2019-02-01
 title: A Praying Life
-draft: true
-date_finished: 2019-01-28
-stars: 4
-audio: false
 author: Paul E. Miller
-cover: https://images-na.ssl-images-amazon.com/images/I/81u6xIJET4L.jpg
-amazon: https://amzn.to/2Nbuy05
+isbn: 9781600063008
+stars: 4
+date: 2019-02-01
 ---
 
 This was a very practical read on the topic of prayer.
