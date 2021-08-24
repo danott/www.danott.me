@@ -1,0 +1,39 @@
+<html>
+  <head>
+    <title>danott.co</title>
+    <style>
+      body {
+        background: white;
+        color: black;
+        font-family: sans-serif;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 1.5;
+        padding: 1rem;
+      }
+
+      #code {
+        background: white;
+        width: 100%;
+        font-size: 1rem;
+      }
+    </style>
+  </head>
+  <body>
+    <p>
+      Here's the code!
+    </p>
+    <textarea id="code" readonly></textarea>
+
+    <script>
+      (function() {
+        var searchParams = new URLSearchParams(window.location.search);
+        var code = searchParams.get("code");
+        var input = document.getElementById("code");
+        input.value = code;
+        input.select();
+      })()
+    </script>
+  </body>
+</html>
+
