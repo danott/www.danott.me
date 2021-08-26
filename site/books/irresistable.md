@@ -1,5 +1,5 @@
 ---
-title: Irresistible: Reclaiming the New that Jesus Unleashed for the World
+title: "Irresistible: Reclaiming the New that Jesus Unleashed for the World"
 author: Andy Stanley
 isbn: 9780310536970
 stars: 5

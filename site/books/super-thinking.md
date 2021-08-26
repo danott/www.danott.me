@@ -1,6 +1,7 @@
 ---
 title: Super Thinking
-author: Gabriel Weinberg & Lauren McCann
+author: Gabriel Weinberg, Lauren McCann
+
 stars: 4
 isbn: 9780525533580
 date: 2020-03-01

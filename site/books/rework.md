@@ -1,6 +1,7 @@
 ---
 title: Rework
-author: Jason Fried & David Heinemeier Hansson
+author: Jason Fried, David Heinemeier Hansson
+
 isbn: 9780307463746
 stars: 4
 date: 2017-06-18

@@ -1,0 +1,102 @@
+---
+layout: markdown.njk
+eleventyExcludeFromCollections: true
+---
+
+<style>
+table, th, td {
+  border-collapse: collapse;
+}
+
+table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+thead {
+  font-weight: bold;
+}
+
+/* Title */
+td:nth-child(1) {
+  overflow: hidden;
+  padding-right: 0.5rem;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Author */
+td:nth-child(2) {
+  overflow: hidden;
+  padding-right: 0.5rem;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Finished */
+td:nth-child(3) {
+  white-space: nowrap;
+  word-break: keep-all;
+}
+
+/* Rating */
+td:nth-child(4) {
+  white-space: nowrap;
+  word-break: keep-all;
+}
+
+@media (max-width:520px) {
+  table, tbody, tr, td {
+    display: block;
+  }
+
+  thead { display: none; }
+  tr { margin-top: 2rem;}
+
+  td:nth-child(3) time { display: none; }
+  td:nth-child(3):after { content: attr(data-full-month); }
+}
+</style>
+
+<h1>Books</h1>
+
+{% markdown %}
+These are some books I've read.
+
+{% endmarkdown %}
+
+<table>
+  <thead>
+    <tr>
+      <td colspan="3">Title</td>
+      <td colspan="2">Author</td>
+      <td colspan="1">Finished</td>
+      <td colspan="1">Rating</td>
+    </tr>
+  </thead>
+      
+  <tbody>
+    {% for item in collections.books | reverse %}
+      <tr>
+        <td colspan="3">{{ item.data.minimalTitle }}</td>
+        <td colspan="2">{{ item.data.minimalAuthor }}</td>
+        <td colspan="1" data-full-month="{{ item.date | fullMonth }}">
+          <time datetime="{{item.date | isoDate}}">{{ item.date | minimalMonth }}</time>
+        </td>
+        <td colspan="1">
+          {% if item.data.stars == 5 %}
+            ★★★★★  
+          {% elseif item.data.stars == 4 %}
+            ★★★★ 
+          {% elseif item.data.stars == 3 %}
+            ★★★ 
+          {% elseif item.data.stars == 2 %}
+            ★★ 
+          {% else %}
+            ★
+          {% endif %}
+        </td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>

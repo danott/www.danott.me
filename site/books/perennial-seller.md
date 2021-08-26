@@ -1,5 +1,5 @@
 ---
-title: Perennial Seller: The Art of Making and Marketing Work That Lasts
+title: "Perennial Seller: The Art of Making and Marketing Work That Lasts"
 author: Ryan Holiday
 isbn: 9780143109013
 stars: 4

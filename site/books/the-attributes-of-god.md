@@ -1,5 +1,5 @@
 ---
-title: The Attributes of God Volume 1: A Journey into the Father's Heart
+title: "The Attributes of God Volume 1: A Journey into the Father's Heart"
 author: A.W. Tozer
 isbn: 9781600661297
 stars: 3

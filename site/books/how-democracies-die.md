@@ -1,5 +1,5 @@
 ---
-title: How Democracies Die: What History Reveals About Our Future
+title: "How Democracies Die: What History Reveals About Our Future"
 author: Steven Levitsky
 isbn: 9781524762933
 stars: 4

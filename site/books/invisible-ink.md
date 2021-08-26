@@ -1,5 +1,5 @@
 ---
-title: Invisible Ink: A Practical Guide to Building Stories That Resonate
+title: "Invisible Ink: A Practical Guide to Building Stories That Resonate"
 author: Brian McDonald
 isbn: 9780984178629
 stars: 4

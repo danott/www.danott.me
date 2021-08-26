@@ -1,5 +1,5 @@
 ---
-title: Better: How Jesus Satisfies the Search for Meaning
+title: "Better: How Jesus Satisfies the Search for Meaning"
 author: Tim Chaddick
 stars: 3
 isbn: 9781434705235

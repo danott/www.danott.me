@@ -1,6 +1,6 @@
 ---
-title: Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed
-author:  James C. Scott
+title: "Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed"
+author: James C. Scott
 isbn: 9780300078152
 stars: 5
 date: 2018-12-04

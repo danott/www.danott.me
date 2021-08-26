@@ -1,6 +1,7 @@
 ---
 title: 99 Bottles of OOP
-author: Sandi Metz & Katrina Owen
+author: Sandi Metz, Katrina Owen
+
 stars: 4
 date: 2017-03-31
 ---

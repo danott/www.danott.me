@@ -1,5 +1,5 @@
 ---
-title: Principia Amoris: The New Science of Love
+title: "Principia Amoris: The New Science of Love"
 author: John Gottman
 isbn: 9780415641562
 stars: 3

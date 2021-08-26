@@ -1,5 +1,5 @@
 ---
-title: Atheist Delusions: The Christian Revolution and Its Fashionable Enemies
+title: "Atheist Delusions: The Christian Revolution and Its Fashionable Enemies"
 author: David Bentley Hart
 isbn: 9780300111903
 stars: 5

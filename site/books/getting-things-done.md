@@ -1,5 +1,5 @@
 ---
-title: Getting Things Done: The Art of Stress-Free Productivity
+title: "Getting Things Done: The Art of Stress-Free Productivity"
 author: David Allen
 isbn: 9780142000281
 stars: 5

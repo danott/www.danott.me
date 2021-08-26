@@ -1,5 +1,5 @@
 ---
-title: The Story of Philosophy: The Lives and Opinions of the World's Greatest Philosophers
+title: "The Story of Philosophy: The Lives and Opinions of the World's Greatest Philosophers"
 author: Will Durant
 isbn: 9780671739164
 stars: 5

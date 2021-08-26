@@ -1,5 +1,5 @@
 ---
-title: Debt: The First 5,000 Years
+title: "Debt: The First 5,000 Years"
 author: David Graeber
 isbn: 9781933633862
 stars: 5

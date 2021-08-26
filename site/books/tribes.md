@@ -1,5 +1,5 @@
 ---
-title: Tribes: We Need You to Lead Us
+title: "Tribes: We Need You to Lead Us"
 author: Seth Godin
 isbn: 9781591842330
 stars: 1

@@ -1,5 +1,5 @@
 ---
-title: Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones
+title: "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"
 author: James Clear
 isbn: 9780735211292
 stars: 4

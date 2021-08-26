@@ -1,5 +1,5 @@
 ---
-title: The Meaning of Marriage: Facing the Complexities of Commitment with the Wisdom of God
+title: "The Meaning of Marriage: Facing the Complexities of Commitment with the Wisdom of God"
 author: Timothy Keller
 isbn: 9781594631870
 stars: 4

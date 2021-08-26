@@ -1,5 +1,5 @@
 ---
-title: Supernatural: What the Bible Teaches about the Unseen World - And Why It Matters
+title: "Supernatural: What the Bible Teaches about the Unseen World - And Why It Matters"
 author: Michael S. Heiser
 isbn: 9781577995586
 stars: 3

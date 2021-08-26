@@ -1,5 +1,5 @@
 ---
-title: Life Together: The Classic Exploration of Christian Community
+title: "Life Together: The Classic Exploration of Christian Community"
 author: Dietrich Bonhoeffer
 isbn: 9780060608521
 stars: 3

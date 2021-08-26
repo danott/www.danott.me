@@ -1,5 +1,5 @@
 ---
-title: Principles: Life and Work
+title: "Principles: Life and Work"
 author: Ray Dalio
 isbn: 9781508243243
 stars: 5

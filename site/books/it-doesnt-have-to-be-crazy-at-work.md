@@ -1,6 +1,7 @@
 ---
 title: It Doesn't Have to Be Crazy at Work
-author: Jason Fried & David Heinemeier Hansson
+author: Jason Fried, David Heinemeier Hansson
+
 isbn: 9780062874788
 stars: 4
 date: 2018-11-03

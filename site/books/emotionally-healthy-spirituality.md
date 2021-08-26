@@ -1,5 +1,5 @@
 ---
-title: Emotionally Healthy Spirituality: Unleash a Revolution in Your Life In Christ
+title: "Emotionally Healthy Spirituality: Unleash a Revolution in Your Life In Christ"
 author: Peter Scazzero
 isbn: 9781591454526
 stars: 3

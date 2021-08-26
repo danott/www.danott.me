@@ -1,5 +1,5 @@
 ---
-title: To Save Everything, Click Here: The Folly of Technological Solutionism
+title: "To Save Everything, Click Here: The Folly of Technological Solutionism"
 author: Evgeny Morozov
 isbn: 9781610391382
 stars: 5

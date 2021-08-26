@@ -1,5 +1,5 @@
 ---
-title: The Pixar Touch: The Making of a Company
+title: "The Pixar Touch: The Making of a Company"
 author: David A. Price
 isbn: 9780307265753
 stars: 3

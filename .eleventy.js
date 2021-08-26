@@ -27,6 +27,21 @@ module.exports = (eleventyConfig) => {
     return md.render(content)
   })
 
+  eleventyConfig.addFilter("isoDate", (dateObj) =>
+    dateObj.toISOString().substring(0, 10),
+  )
+
+  eleventyConfig.addFilter("fullMonth", (date) =>
+    date.toLocaleDateString("en-US", { month: "long", year: "numeric" }),
+  )
+
+  eleventyConfig.addFilter("minimalMonth", (date) =>
+    date
+      .toLocaleDateString("en-US", { month: "short", year: "2-digit" })
+      .split(" ")
+      .join(" '"),
+  )
+
   return {
     htmlTemplateEngine: "njk",
     markdownTemplateEngine: "njk",

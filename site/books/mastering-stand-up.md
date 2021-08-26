@@ -1,5 +1,5 @@
 ---
-title: Mastering Stand-Up: The Complete Guide to Becoming a Successful Comedian
+title: "Mastering Stand-Up: The Complete Guide to Becoming a Successful Comedian"
 author: Stephen Rosenfield
 isbn: 9781613736920
 stars: 5

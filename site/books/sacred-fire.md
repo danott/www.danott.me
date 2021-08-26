@@ -1,5 +1,5 @@
 ---
-title: Sacred Fire: A Vision for a Deeper Human and Christian Maturity
+title: "Sacred Fire: A Vision for a Deeper Human and Christian Maturity"
 author: Ronald Rolheiser
 isbn: 9780804139441
 stars: 4

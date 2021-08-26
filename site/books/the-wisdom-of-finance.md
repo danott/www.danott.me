@@ -1,5 +1,5 @@
 ---
-title: The Wisdom of Finance: Discovering Humanity in the World of Risk and Return
+title: "The Wisdom of Finance: Discovering Humanity in the World of Risk and Return"
 author: Mihir Desai
 isbn: 9780544911130
 stars: 5

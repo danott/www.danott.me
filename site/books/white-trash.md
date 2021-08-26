@@ -1,5 +1,5 @@
 ---
-title: White Trash: The 400-Year Untold History of Class in America
+title: "White Trash: The 400-Year Untold History of Class in America"
 author: Nancy Isenberg
 isbn: 9780670785971
 stars: 4

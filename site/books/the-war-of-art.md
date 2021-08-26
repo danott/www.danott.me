@@ -1,5 +1,5 @@
 ---
-title: The War of Art: Winning the Inner Creative Battle
+title: "The War of Art: Winning the Inner Creative Battle"
 author: Steven Pressfield
 isbn: 9780446691437
 stars: 5
