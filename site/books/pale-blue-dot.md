@@ -1,13 +1,9 @@
 ---
-date: 2019-02-18
 title: Pale Blue Dot
-eleventyExcludeFromCollections: true
-date_finished: 2019-02-18
-stars: 3
-audio: true
 author: Carl Sagan
-amazon: https://amzn.to/2V5LB6e
-cover: https://images-na.ssl-images-amazon.com/images/I/81OCl-1HMAL.jpg
+isbn: 9780345376596
+stars: 3
+date: 2019-02-18
 ---
 
 Carl Sagan was a brilliant thinker.
