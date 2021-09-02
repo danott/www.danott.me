@@ -1,3 +1,7 @@
+---
+eleventyExcludeFromCollections: true
+---
+
 <html>
   <head>
     <title>danott.co</title>
@@ -20,20 +24,17 @@
     </style>
   </head>
   <body>
-    <p>
-      Here's the code!
-    </p>
+    <p>Here's the code!</p>
     <textarea id="code" readonly></textarea>
 
     <script>
-      (function() {
-        var searchParams = new URLSearchParams(window.location.search);
-        var code = searchParams.get("code");
-        var input = document.getElementById("code");
-        input.value = code;
-        input.select();
+      ;(function () {
+        var searchParams = new URLSearchParams(window.location.search)
+        var code = searchParams.get("code")
+        var input = document.getElementById("code")
+        input.value = code
+        input.select()
       })()
     </script>
   </body>
 </html>
-
