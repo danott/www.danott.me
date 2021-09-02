@@ -78,7 +78,9 @@ These are some books I've read.
   <tbody>
     {% for item in collections.books | reverse %}
       <tr>
-        <td colspan="3">{{ item.data.minimalTitle }}</td>
+        <td colspan="3">
+          <a href="{{ item.url }}">{{ item.data.minimalTitle }}</a>
+        </td>
         <td colspan="2">{{ item.data.minimalAuthor }}</td>
         <td colspan="1" data-full-month="{{ item.date | fullMonth }}">
           <time datetime="{{item.date | isoDate}}">{{ item.date | minimalMonth }}</time>

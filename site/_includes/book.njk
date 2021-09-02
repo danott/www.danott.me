@@ -1,0 +1,56 @@
+---
+title: Book
+layout: default.njk
+---
+
+<article>
+  <h1>
+    I read 
+    <em>{{ minimalTitle }}</em> 
+    by {{ author }} 
+    around <time datetime="{{date | isoDate}}">{{ date | fullMonth }}</time>
+  </h1>
+
+  <p style="font-weight: bold;">
+    Review:
+
+    {% if stars == 5 %}
+      ★★★★★  
+    {% elseif stars == 4 %}
+      ★★★★ 
+    {% elseif stars == 3 %}
+      ★★★ 
+    {% elseif stars == 2 %}
+      ★★ 
+    {% else %}
+      ★
+    {% endif %}
+  </p>
+
+  <div class="prose">
+    {{ content | safe }}
+  </div>
+
+  <hr />
+
+  <h3>Details</h3>
+  <dl class="prose">
+    <dt>Title</dt>
+    <dd>{{ title }}</dd>
+
+    <dt>Author</dt>
+    <dd>{{ author }}</dd>
+
+    {% if isbn %}
+      <dt>ISBN</dt>
+      <dd>
+        {{ isbn }} 
+        (find it on 
+        <a href="https://bookshop.org/books?keywords={{ isbn }}">Bookshop<a>,
+        <a href="https://www.indiebound.org/book/{{ isbn }}">IndieBound</a>, 
+        <a href="https://worldcat.org/isbn/{{ isbn }}">WorldCat</a>, 
+        or <a href="https://openlibrary.org/search?isbn={{ isbn }}">Open Library</a>)
+      </dd>
+    {% endif %}
+  </dl>
+</article>
